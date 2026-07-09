@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0132-palindrome-partitioning-ii) |
+| [0542-01-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1092-shortest-common-supersequence) |
 ## Math
@@ -30,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Array
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0542-01-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
