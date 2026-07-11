@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1020-number-of-enclaves) |
+| [2685-count-the-number-of-complete-components](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -56,14 +57,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1020-number-of-enclaves) |
+| [2685-count-the-number-of-complete-components](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1020-number-of-enclaves) |
+| [2685-count-the-number-of-complete-components](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
+| [2685-count-the-number-of-complete-components](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
