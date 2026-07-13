@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -75,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
