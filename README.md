@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2469-convert-the-temperature) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1631-path-with-minimum-effort) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
