@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2469-convert-the-temperature) |
+| [3536-maximum-product-of-two-digits](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3536-maximum-product-of-two-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
