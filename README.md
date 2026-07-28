@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0132-palindrome-partitioning-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0132-palindrome-partitioning-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1092-shortest-common-supersequence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
