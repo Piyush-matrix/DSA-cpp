@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0130-surrounded-regions) |
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0542-01-matrix) |
