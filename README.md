@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0057-insert-interval) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0035-search-insert-position) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
