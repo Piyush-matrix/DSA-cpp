@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0827-making-a-large-island](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0877-stone-game) |
 | [1020-number-of-enclaves](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
