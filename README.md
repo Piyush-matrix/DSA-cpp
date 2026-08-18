@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1552-magnetic-force-between-two-balls) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3536-maximum-product-of-two-digits) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
