@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0877-stone-game) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
@@ -274,9 +275,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0231-power-of-two) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Interactive
 |  |
 | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
