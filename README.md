@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0860-lemonade-change) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
