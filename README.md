@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1092-shortest-common-supersequence](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1092-shortest-common-supersequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3693-climbing-stairs-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3693-climbing-stairs-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
