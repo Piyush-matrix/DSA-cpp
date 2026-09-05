@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0132-palindrome-partitioning-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0072-edit-distance) |
@@ -307,9 +309,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
