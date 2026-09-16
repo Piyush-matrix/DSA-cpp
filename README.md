@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0115-distinct-subsequences) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0137-single-number-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0827-making-a-large-island) |
