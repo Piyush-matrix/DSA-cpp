@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0115-distinct-subsequences) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
