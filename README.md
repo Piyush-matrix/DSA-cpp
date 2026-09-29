@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0055-jump-game) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
