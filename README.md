@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0877-stone-game) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0435-non-overlapping-intervals) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -313,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Interactive
