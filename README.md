@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0435-non-overlapping-intervals) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
