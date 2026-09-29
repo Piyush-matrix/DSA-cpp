@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0169-majority-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -362,4 +366,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0062-unique-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
