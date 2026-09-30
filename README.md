@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0583-delete-operation-for-two-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0678-valid-parenthesis-string) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1092-shortest-common-supersequence) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0678-valid-parenthesis-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Game Theory
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0022-generate-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Memoization
 |  |
 | ------- |
