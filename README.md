@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0132-palindrome-partitioning-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0062-unique-paths) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Game Theory
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Memoization
 |  |
