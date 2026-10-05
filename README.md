@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0283-move-zeroes) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
