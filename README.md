@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bracket Sequences
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
