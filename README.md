@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0583-delete-operation-for-two-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Game Theory
 |  |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Memoization
 |  |
