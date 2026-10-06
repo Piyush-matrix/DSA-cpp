@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2396-strictly-palindromic-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0237-delete-node-in-a-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
