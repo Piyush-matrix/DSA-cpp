@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bracket Sequences
