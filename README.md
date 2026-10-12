@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0735-asteroid-collision) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0827-making-a-large-island](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0860-lemonade-change) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
