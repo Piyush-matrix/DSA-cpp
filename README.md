@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -437,4 +439,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
