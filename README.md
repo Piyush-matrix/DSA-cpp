@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -430,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
