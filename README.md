@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0210-course-schedule-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0210-course-schedule-ii) |
@@ -454,8 +456,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
