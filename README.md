@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -460,10 +461,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
