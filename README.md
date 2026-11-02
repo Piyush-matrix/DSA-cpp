@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0877-stone-game) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0503-next-greater-element-ii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1552-magnetic-force-between-two-balls) |
