@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1552-magnetic-force-between-two-balls) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0455-assign-cookies) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2396-strictly-palindromic-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1552-magnetic-force-between-two-balls) |
