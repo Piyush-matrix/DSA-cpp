@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1020-number-of-enclaves) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0787-cheapest-flights-within-k-stops) |
