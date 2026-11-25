@@ -491,4 +491,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0543-diameter-of-binary-tree) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
