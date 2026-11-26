@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2469-convert-the-temperature](https://github.com/Piyush-matrix/DSA-cpp/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3536-maximum-product-of-two-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Piyush-matrix/DSA-cpp/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Piyush-matrix/DSA-cpp/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush-matrix/DSA-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
